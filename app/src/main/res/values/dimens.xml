@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largedp">350dp</dimen>
+    <dimen name="normaldp16">16dp</dimen>
+    <dimen name="normaldp24">24dp</dimen>
+</resources>
